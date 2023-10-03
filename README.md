@@ -1,6 +1,7 @@
 # torweb
 website presentación modo hacker onion - tor
 
+- https://github.com/zedeus/nitter/wiki/Instances#tor
 
 - http://ijaql7x6xecrqgv24u75tdymfeg4x7u6cl2scuet7ewlhtnbhunng7ad.onion/
 - http://lockbit7z2jwcskxpbokpemdxmltipntwlkmidcll2qirbu7ykg46eyd.onion/entrust.com/entrust-datacard/
